@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# large / regenerable artifacts
+data/rag_cache.pkl
+*.pkl
+finetune/out*/
+finetune/sft_data.jsonl
+logs/

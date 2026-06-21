@@ -1,0 +1,28 @@
+{
+  "ft_data_sweep": [
+    {
+      "n": 250,
+      "final": 42.3,
+      "persona": 0.278,
+      "sig": null
+    },
+    {
+      "n": 1000,
+      "final": 45.64,
+      "persona": 0.319,
+      "sig": null
+    },
+    {
+      "n": 2000,
+      "final": 46.7,
+      "persona": 0.35,
+      "sig": null
+    },
+    {
+      "n": 4297,
+      "final": 48.36,
+      "persona": 0.397,
+      "sig": null
+    }
+  ]
+}

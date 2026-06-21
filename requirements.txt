@@ -1,0 +1,18 @@
+# core RAG / inference
+sentence-transformers
+openai
+python-dotenv
+numpy
+transformers
+torch
+# persona feature extraction / data generation
+kiwipiepy
+google-generativeai
+# evaluation figures
+matplotlib
+# fine-tuning (QLoRA) — GPU
+peft
+trl
+bitsandbytes
+accelerate
+datasets

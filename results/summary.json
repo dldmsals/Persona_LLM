@@ -1,0 +1,16 @@
+[
+  {
+    "system": "rag:openai/gpt-4o-mini",
+    "n": 100,
+    "bleurt_component_50": 33.113,
+    "judge_component_50": 33.333,
+    "final_score_100": 66.446,
+    "sentence_count_score": 0.767,
+    "signature_phrase_score": 0.72,
+    "semantic_similarity": 0.622,
+    "bleurt_norm": 0.601,
+    "content_quality": 0.688,
+    "persona_alignment": 0.701,
+    "rhetorical_alignment": 0.611
+  }
+]
